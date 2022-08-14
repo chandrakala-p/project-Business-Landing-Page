@@ -25,4 +25,4 @@ Chandrakala P
 - HTML : list, p, div, li, ul, ol, heading tags, button, img, section and many more.
 - CSS: margin, padding, bgc, color, posiiton text-decorations align items, display, flex, text align, justify content, gap, bgi, border, border-radius, transform etc.
 
-## It took around 6 hrs.
+## It took around 8 hrs.
