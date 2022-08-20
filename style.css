@@ -360,7 +360,7 @@ img.icon-logo-img {
     }
 
     body {
-        margin: 0 40px 0 40px;
+        overflow-x: hidden;
     }
 
     .head {
@@ -452,6 +452,23 @@ img.icon-logo-img {
         gap: 20px;
     }
 
+    .content-img img {
+        width: 100%;
+    }
+
+    div.input {
+        padding: 0;
+        margin: 0;
+
+
+    }
+
+    .contents {
+        width: 100%;
+        text-align: center;
+
+    }
+
     .meet-img {
         width: 80%;
         height: 40%;
@@ -490,6 +507,19 @@ img.icon-logo-img {
         width: 80%;
         display: flex;
         justify-content: center;
+    }
+
+    .last-heading h1 {
+        width: 100%;
+        padding-left: 40px;
+        padding-right: 40px;
+        text-align: center;
+        margin: 0;
+    }
+
+    .last-card-item {
+        width: 100%;
+        text-align: center;
     }
 
     .see-btn {
